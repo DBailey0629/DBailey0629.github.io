@@ -1,6 +1,8 @@
 # Welcome to my Github hosted website!
 
-I've been developing webapps for personal use for more than a decade. 
+<img src="profilephoto.jpeg" width="200" />
+
+I've been developing webapps for more than a decade. 
 
 Lately I've been writing lots of Google Apps Script to make my workflow easier in my current job. 
 

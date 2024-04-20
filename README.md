@@ -1,5 +1,6 @@
 # Welcome to my Github hosted website!
 
+[Daniel Bailey profile photo]()
 I've been developing webapps for personal use for more than a decade. 
 
 Lately I've been writing lots of Google Apps Script to make my workflow easier in my current job. 

@@ -2,7 +2,7 @@ This page is for future information about my Google Gmail Add-on "Save Gmail to 
 
 It needs pages for:<br>
 - [Privacy Policy](s2gdPrivacyPolicy.md)<br>
-* Terms of Service<br>
+* [Terms of Service](s2gdTermsOfService.md)<br>
 - Information on how users can get help
 
 

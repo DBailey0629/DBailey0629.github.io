@@ -1,5 +1,5 @@
 # Privacy Policy for Save to Google Drive<br>
-This Privacy Policy describes how Save to Google Drive (the "Add-on"), a Google Workspace Add-on for Gmail, collects, uses, and protects your information when you use the Add-on. We are committed to protecting your privacy and handling your data responsibly.
+This Privacy Policy describes how Save to Google Drive (the "Add-on"), a Google Workspace Add-on for Gmail, collects, uses, and protects your information when you use the Add-on. We are committed to protecting your privacy and handling your data responsibly. This Add-on was created by Daniel Bailey and is not a product of Google or its parent company.
 
 ## Information We Collect:
 

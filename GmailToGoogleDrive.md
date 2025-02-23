@@ -1,11 +1,8 @@
 This page is for future information about my Google Gmail Add-on "Save Gmail to Google Drive".
 
-It needs pages for:
-
-privacy policy
-
-Terms of Service
-
+It needs pages for:/n
+privacy policy/n
+Terms of Service/n
 Information on how users can get help
 
 

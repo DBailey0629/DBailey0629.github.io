@@ -11,11 +11,11 @@ This Privacy Policy describes how Save to Google Drive (the "Add-on"), a Google 
 
 ## How We Use Your Information:
 
-We do not share your email content, Google Drive files, or any other personal information with any third parties, including advertisers or other organizations. Your data remains within your Google Workspace environment.
+We do not store or share your email content, Google Drive files, or any other personal information with any third parties, including advertisers or other organizations. Your data remains within your Google Workspace environment and is not accessed by the developers of this add-on.
 
 ## Data Storage:
 
-The Add-on runs on Google servers and does not store your email content or the generated PDF on external servers. The PDF is saved directly to your designated folder in Google Drive. We may retain minimal application usage data (e.g., successful save counts) for debugging and performance monitoring purposes. This data is anonymized and does not include any personal information. 
+The Add-on runs on Google servers and does not store your email content or the generated PDF on external servers or in any other Google account other than the user accessing the add-on and the Google Drive folders they may have access to. The PDF is saved directly to your designated folder in Google Drive. We may retain minimal application usage data (e.g., successful save counts) for debugging and performance monitoring purposes. This data is anonymized and does not include any personal information. 
 
 ## Changes to this Privacy Policy:
 
